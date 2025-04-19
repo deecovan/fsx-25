@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LXGB to GMTN</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>LXGB</DepartureID>
+        <DepartureLLA>N36° 9' 3.12",W5° 21' 35.34",+000015.00</DepartureLLA>
+        <DestinationID>GMTN</DestinationID>
+        <DestinationLLA>N35° 35' 39.71",W5° 19' 11.91",+000010.00</DestinationLLA>
+        <Descr>LXGB, GMTN created by Little Navmap 3.0.16</Descr>
+        <DeparturePosition>09</DeparturePosition>
+        <DepartureName>Gibraltar AB</DepartureName>
+        <DestinationName>Saniat R'Mel</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>61472</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LXGB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 9' 4.24",W5° 20' 59.10",+000015.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LXGB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="GMTN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 35' 39.71",W5° 19' 11.91",+000010.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GMTN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
