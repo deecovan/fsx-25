@@ -1,0 +1,23 @@
+[Options]
+Metadata=Created by Little Navmap Version 2.2.4 (revision 5ae9b03) on 2019 08 20T12:49:03
+ProgramVersion=2.2.4
+FormatVersion=1.0.0
+Name=Cessna 172 SP Skyhawk
+AircraftType=C172
+Description="Developer>>>>>Laminar \nAircraft >>>>>>>Cessna C172 SkyHawk \nCollected By >>> Dom “Nasty” Leve\n                             The Nasty Army \n                             Come fly with us https://discord.gg/TSJvxsq\nDescription\nThe Cessna 172 Skyhawk is an American four-seat, single-engine, high wing, fixed-wing aircraft made by the Cessna Aircraft Company. First flown in 1955, more 172s have been built than any other aircraft.\n\nMeasured by its longevity and popularity, the Cessna 172 is the most successful aircraft in history. Cessna delivered the first production model in 1956 and as of 2015, the company and its partners had built more than 44,000.The aircraft remains in production today.\n"
+FuelAsVolume=false
+JetFuel=false
+
+[Perf]
+TaxiFuelLbsGal=2
+ReserveFuelLbsGal=0
+ExtraFuelLbsGal=0
+ContingencyFuelPercent=0
+ClimbVertSpeedFtPerMin=462
+ClimbSpeedKtsTAS=110
+ClimbFuelFlowLbsGalPerHour=60
+CruiseSpeedKtsTAS=137
+CruiseFuelFlowLbsGalPerHour=22
+DescentSpeedKtsTAS=114
+DescentVertSpeedFtPerMin=444
+DescentFuelFlowLbsGalPerHour=24
