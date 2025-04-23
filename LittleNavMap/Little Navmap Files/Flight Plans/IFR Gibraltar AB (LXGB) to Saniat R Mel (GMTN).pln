@@ -1,28 +1,46 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+
 <SimBase.Document Type="AceXML" version="1,0">
     <Descr>AceXML Document</Descr>
     <FlightPlan.FlightPlan>
         <Title>LXGB to GMTN</Title>
         <FPType>IFR</FPType>
-        <RouteType>Direct</RouteType>
+        <RouteType>LowAlt</RouteType>
         <CruisingAlt>3000</CruisingAlt>
         <DepartureID>LXGB</DepartureID>
-        <DepartureLLA>N36° 9' 3.12",W5° 21' 35.34",+000015.00</DepartureLLA>
+        <DepartureLLA>N36° 9' 9.54",W5° 20' 33.85",+000015.00</DepartureLLA>
         <DestinationID>GMTN</DestinationID>
         <DestinationLLA>N35° 35' 39.71",W5° 19' 11.91",+000010.00</DestinationLLA>
         <Descr>LXGB, GMTN created by Little Navmap 3.0.16</Descr>
-        <DeparturePosition>09</DeparturePosition>
+        <DeparturePosition>PARKING 19</DeparturePosition>
         <DepartureName>Gibraltar AB</DepartureName>
-        <DestinationName>Saniat R'Mel</DestinationName>
+        <DestinationName>Saniat R&apos;Mel</DestinationName>
         <AppVersion>
             <AppVersionMajor>10</AppVersionMajor>
-            <AppVersionBuild>61472</AppVersionBuild>
+            <AppVersionBuild>62615</AppVersionBuild>
         </AppVersion>
         <ATCWaypoint id="LXGB">
             <ATCWaypointType>Airport</ATCWaypointType>
             <WorldPosition>N36° 9' 4.24",W5° 20' 59.10",+000015.00</WorldPosition>
             <ICAO>
                 <ICAOIdent>LXGB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="HH09N">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N36° 9' 29.94",W5° 7' 56.65",+002456.66</WorldPosition>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>HH09N</ICAOIdent>
+                <ICAOAirport>LXGB</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TTN">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N35° 35' 41.95",W5° 19' 28.57",+000064.43</WorldPosition>
+            <ICAO>
+                <ICAORegion>GM</ICAORegion>
+                <ICAOIdent>TTN</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
         <ATCWaypoint id="GMTN">

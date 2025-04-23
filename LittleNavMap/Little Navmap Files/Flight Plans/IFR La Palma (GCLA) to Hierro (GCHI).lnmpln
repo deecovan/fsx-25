@@ -3,9 +3,9 @@
   <Flightplan>
     <Header>
       <FlightplanType>IFR</FlightplanType>
-      <CruisingAlt>3000</CruisingAlt>
-      <CruisingAltF>3000.00000000</CruisingAltF>
-      <CreationDate>2025-04-19T20:05:50+03:00</CreationDate>
+      <CruisingAlt>6000</CruisingAlt>
+      <CruisingAltF>6000.00000000</CruisingAltF>
+      <CreationDate>2025-04-19T22:04:44+03:00</CreationDate>
       <FileVersion>1.2</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>3.0.16</ProgramVersion>
@@ -14,28 +14,27 @@
     <SimData>FSXSE</SimData>
     <NavData>FSXSE</NavData>
     <AircraftPerformance>
-      <FilePath>Cessna 172.lnmperf</FilePath>
       <Type>C172</Type>
-      <Name>Cessna 172 SP Skyhawk</Name>
+      <Name>Example Performance Profile</Name>
     </AircraftPerformance>
     <Departure>
-      <Pos Lon="-5.359816" Lat="36.150867" Alt="15.00"/>
-      <Start>09</Start>
-      <Type>Runway</Type>
-      <Heading>87.55</Heading>
+      <Pos Lon="-17.755228" Lat="28.619312" Alt="603.00"/>
+      <Start>PARKING 1</Start>
+      <Type>Parking</Type>
+      <Heading>86.98</Heading>
     </Departure>
     <Waypoints>
       <Waypoint>
-        <Name>Gibraltar AB</Name>
-        <Ident>LXGB</Ident>
+        <Name>La Palma</Name>
+        <Ident>GCLA</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="-5.349750" Lat="36.151176" Alt="15.00"/>
+        <Pos Lon="-17.757292" Lat="28.624706" Alt="603.00"/>
       </Waypoint>
       <Waypoint>
-        <Name>Saniat R'Mel</Name>
-        <Ident>GMTN</Ident>
+        <Name>Hierro</Name>
+        <Ident>GCHI</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="-5.319975" Lat="35.594364" Alt="10.00"/>
+        <Pos Lon="-17.887056" Lat="27.814848" Alt="485.00"/>
       </Waypoint>
     </Waypoints>
   </Flightplan>

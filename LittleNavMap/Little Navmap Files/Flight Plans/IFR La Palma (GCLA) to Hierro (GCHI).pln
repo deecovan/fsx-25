@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>GCLA to GCHI</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>6000</CruisingAlt>
+        <DepartureID>GCLA</DepartureID>
+        <DepartureLLA>N28° 37' 9.52",W17° 45' 18.82",+000603.00</DepartureLLA>
+        <DestinationID>GCHI</DestinationID>
+        <DestinationLLA>N27° 48' 53.45",W17° 53' 13.40",+000485.00</DestinationLLA>
+        <Descr>GCLA, GCHI created by Little Navmap 3.0.16</Descr>
+        <DeparturePosition>PARKING 1</DeparturePosition>
+        <DepartureName>La Palma</DepartureName>
+        <DestinationName>Hierro</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>61472</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="GCLA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N28° 37' 28.94",W17° 45' 26.25",+000603.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GCLA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="GCHI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 48' 53.45",W17° 53' 13.40",+000485.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GCHI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
